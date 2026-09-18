@@ -14,7 +14,7 @@ window.WEDDING_CONFIG = {
   // Data mempelai
   couple: {
     groom: {
-      name: "Tommy Wahyu Kristanto S.H",
+      name: "Tommy Wahyu Kristanto S.H.",
       role: "PUTRA KEDUA",
       father: "Bapak Lisyanto",
       mother: "Ibu Juharti",
